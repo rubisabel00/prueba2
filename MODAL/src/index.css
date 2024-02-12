@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-primary{background-color:#901728 !important;}
+
+.nav-link{
+  color: #fff !important;
+  font-size: 20px;
+  padding: 20px;
+}
+.nav-link:hover{
+  color: #0700fc !important;
+  cursor: pointer;
+}
+.border{width: 100%;
+
+margin: 0 auto;
+border: 10px solid #FFCE00 !important;}
+
+.bg-secondary{width: 100%;
+ 
+  margin: 0 auto;
+  background-color: #901728 !important;}
+
+.contenedor{
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+text-align: center;}
+
+/*.fixed-top{
+  top: 100px;
+}*/
+.bordesito{width: 100%;
+ height: 500px;
+  margin: 0 auto;
+  border: 10px solid #FFCE00 !important;}
+
+  .txt-feria{
+width: 60%;
+margin: auto;
+text-align: justify;
+  }
+
+  .cont-img-feria{
+    width: 30%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
+  .img-feria{
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+  .container{
+    width: 80%;
+    height: 100%;
+  }
+
+  .card{width:20%;
+  height: 50%;
+margin: auto;}
+
+.img-feria_2{width: 100%;
+height: 100%;}
+
+.modal{width: 560px;
+  height: 280px;
+background-color:white;
+margin-left: 35%;}
+
+
+
+
+
+
